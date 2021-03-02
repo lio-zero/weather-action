@@ -3,7 +3,7 @@ name: 'GitHub Actions Weather Bot'
 on:
   push:
   schedule:
-    - cron: '0 09 * * *'
+    - cron: '0 11 * * *'
 
 jobs:
   bot:
